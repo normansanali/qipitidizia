@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qipitidizia.pages.dev/sitemap.xml
